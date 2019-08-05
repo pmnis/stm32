@@ -1,2 +1,4 @@
 # stm32
-STM32 / CortexM3 examples for training courses
+STM32F103RB / Cortex-M3 examples for training courses
+
+- blinkled: simple programm to blink the green LED (LD2)
